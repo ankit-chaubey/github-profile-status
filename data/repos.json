@@ -67,8 +67,8 @@
     "releases_url": "https://api.github.com/repos/ankit-chaubey/profilev2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ankit-chaubey/profilev2/deployments",
     "created_at": "2026-02-04T07:11:19Z",
-    "updated_at": "2026-02-04T07:28:30Z",
-    "pushed_at": "2026-02-04T07:28:26Z",
+    "updated_at": "2026-02-04T07:47:13Z",
+    "pushed_at": "2026-02-04T07:47:09Z",
     "git_url": "git://github.com/ankit-chaubey/profilev2.git",
     "ssh_url": "git@github.com:ankit-chaubey/profilev2.git",
     "clone_url": "https://github.com/ankit-chaubey/profilev2.git",
@@ -111,28 +111,28 @@
       "JavaScript": 8253
     },
     "latest_commit": {
-      "sha": "4892b60084184762c61cfc2ad2d15abed73f4fbe",
-      "date": "2026-02-04T07:28:25Z",
-      "message": "chore: update generated GitHub data [skip ci]",
-      "url": "https://github.com/ankit-chaubey/profilev2/commit/4892b60084184762c61cfc2ad2d15abed73f4fbe"
+      "sha": "b1e91bcb80f923c003eee16d4aa0f2dc26d613df",
+      "date": "2026-02-04T07:47:05Z",
+      "message": "fix: move pinned.json into data directory",
+      "url": "https://github.com/ankit-chaubey/profilev2/commit/b1e91bcb80f923c003eee16d4aa0f2dc26d613df"
     },
     "contributors_stats": [
       {
-        "total": 1,
+        "total": 2,
         "author": {
           "login": "github-actions[bot]",
           "url": "https://github.com/apps/github-actions"
         }
       },
       {
-        "total": 4,
+        "total": 5,
         "author": {
           "login": "ankit-chaubey",
           "url": "https://github.com/ankit-chaubey"
         }
       }
     ],
-    "commit_count_estimate": 5
+    "commit_count_estimate": 7
   },
   {
     "id": 466959617,
@@ -653,16 +653,8 @@
       "message": "feat: fuzzy engine rewrite + benchmarks\n\n* optimization for speed and large data handling\n\n* Update loader.go\n\n* Create fuzzy_test.go",
       "url": "https://github.com/ankit-chaubey/fuzzygo/commit/5c0c940d23b3648ff3f135713cee64cc14362a53"
     },
-    "contributors_stats": [
-      {
-        "total": 2,
-        "author": {
-          "login": "ankit-chaubey",
-          "url": "https://github.com/ankit-chaubey"
-        }
-      }
-    ],
-    "commit_count_estimate": 2
+    "contributors_stats": null,
+    "commit_count_estimate": null
   },
   {
     "id": 1145007170,
@@ -921,8 +913,16 @@
       "message": "release: v0.1.2b1 source-only pre-release (local build)",
       "url": "https://github.com/ankit-chaubey/usr/commit/06161258c3c48b3cf7556b7102c414275b3e611f"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 5,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 5
   },
   {
     "id": 1143289578,
@@ -1177,8 +1177,16 @@
       "message": ":)",
       "url": "https://github.com/ankit-chaubey/AboutMe/commit/89c37dbaad571b5159028d98b464a450de6fa762"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 6,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 6
   },
   {
     "id": 888221462,
@@ -3467,8 +3475,37 @@
       "message": "Add userbot example.",
       "url": "https://github.com/ankit-chaubey/PyClient/commit/009c96db1912a8592beb01fd920fc3b2315fb45b"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 1,
+        "author": {
+          "login": "Kylmakalle",
+          "url": "https://github.com/Kylmakalle"
+        }
+      },
+      {
+        "total": 1,
+        "author": {
+          "login": "killometrs",
+          "url": "https://github.com/killometrs"
+        }
+      },
+      {
+        "total": 2,
+        "author": {
+          "login": "github-actions[bot]",
+          "url": "https://github.com/apps/github-actions"
+        }
+      },
+      {
+        "total": 628,
+        "author": {
+          "login": "AYMENJD",
+          "url": "https://github.com/AYMENJD"
+        }
+      }
+    ],
+    "commit_count_estimate": 632
   },
   {
     "id": 890774928,
@@ -5203,8 +5240,16 @@
       "message": "Initial commit for TelegraphBot",
       "url": "https://github.com/ankit-chaubey/TelegraphBot/commit/c02cc30d02116b751c998f84f198c10b27ba82e5"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 1,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 1
   },
   {
     "id": 888354983,
