@@ -2,8 +2,8 @@
   {
     "id": 1149493509,
     "node_id": "R_kgDORIPhBQ",
-    "name": "profilev2",
-    "full_name": "ankit-chaubey/profilev2",
+    "name": "github-profile-status",
+    "full_name": "ankit-chaubey/github-profile-status",
     "private": false,
     "owner": {
       "login": "ankit-chaubey",
@@ -26,55 +26,55 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "html_url": "https://github.com/ankit-chaubey/profilev2",
-    "description": null,
+    "html_url": "https://github.com/ankit-chaubey/github-profile-status",
+    "description": "Automated GitHub profile status generator using GitHub Actions.",
     "fork": false,
-    "url": "https://api.github.com/repos/ankit-chaubey/profilev2",
-    "forks_url": "https://api.github.com/repos/ankit-chaubey/profilev2/forks",
-    "keys_url": "https://api.github.com/repos/ankit-chaubey/profilev2/keys{/key_id}",
-    "collaborators_url": "https://api.github.com/repos/ankit-chaubey/profilev2/collaborators{/collaborator}",
-    "teams_url": "https://api.github.com/repos/ankit-chaubey/profilev2/teams",
-    "hooks_url": "https://api.github.com/repos/ankit-chaubey/profilev2/hooks",
-    "issue_events_url": "https://api.github.com/repos/ankit-chaubey/profilev2/issues/events{/number}",
-    "events_url": "https://api.github.com/repos/ankit-chaubey/profilev2/events",
-    "assignees_url": "https://api.github.com/repos/ankit-chaubey/profilev2/assignees{/user}",
-    "branches_url": "https://api.github.com/repos/ankit-chaubey/profilev2/branches{/branch}",
-    "tags_url": "https://api.github.com/repos/ankit-chaubey/profilev2/tags",
-    "blobs_url": "https://api.github.com/repos/ankit-chaubey/profilev2/git/blobs{/sha}",
-    "git_tags_url": "https://api.github.com/repos/ankit-chaubey/profilev2/git/tags{/sha}",
-    "git_refs_url": "https://api.github.com/repos/ankit-chaubey/profilev2/git/refs{/sha}",
-    "trees_url": "https://api.github.com/repos/ankit-chaubey/profilev2/git/trees{/sha}",
-    "statuses_url": "https://api.github.com/repos/ankit-chaubey/profilev2/statuses/{sha}",
-    "languages_url": "https://api.github.com/repos/ankit-chaubey/profilev2/languages",
-    "stargazers_url": "https://api.github.com/repos/ankit-chaubey/profilev2/stargazers",
-    "contributors_url": "https://api.github.com/repos/ankit-chaubey/profilev2/contributors",
-    "subscribers_url": "https://api.github.com/repos/ankit-chaubey/profilev2/subscribers",
-    "subscription_url": "https://api.github.com/repos/ankit-chaubey/profilev2/subscription",
-    "commits_url": "https://api.github.com/repos/ankit-chaubey/profilev2/commits{/sha}",
-    "git_commits_url": "https://api.github.com/repos/ankit-chaubey/profilev2/git/commits{/sha}",
-    "comments_url": "https://api.github.com/repos/ankit-chaubey/profilev2/comments{/number}",
-    "issue_comment_url": "https://api.github.com/repos/ankit-chaubey/profilev2/issues/comments{/number}",
-    "contents_url": "https://api.github.com/repos/ankit-chaubey/profilev2/contents/{+path}",
-    "compare_url": "https://api.github.com/repos/ankit-chaubey/profilev2/compare/{base}...{head}",
-    "merges_url": "https://api.github.com/repos/ankit-chaubey/profilev2/merges",
-    "archive_url": "https://api.github.com/repos/ankit-chaubey/profilev2/{archive_format}{/ref}",
-    "downloads_url": "https://api.github.com/repos/ankit-chaubey/profilev2/downloads",
-    "issues_url": "https://api.github.com/repos/ankit-chaubey/profilev2/issues{/number}",
-    "pulls_url": "https://api.github.com/repos/ankit-chaubey/profilev2/pulls{/number}",
-    "milestones_url": "https://api.github.com/repos/ankit-chaubey/profilev2/milestones{/number}",
-    "notifications_url": "https://api.github.com/repos/ankit-chaubey/profilev2/notifications{?since,all,participating}",
-    "labels_url": "https://api.github.com/repos/ankit-chaubey/profilev2/labels{/name}",
-    "releases_url": "https://api.github.com/repos/ankit-chaubey/profilev2/releases{/id}",
-    "deployments_url": "https://api.github.com/repos/ankit-chaubey/profilev2/deployments",
+    "url": "https://api.github.com/repos/ankit-chaubey/github-profile-status",
+    "forks_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/forks",
+    "keys_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/teams",
+    "hooks_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/hooks",
+    "issue_events_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/events",
+    "assignees_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/tags",
+    "blobs_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/languages",
+    "stargazers_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/stargazers",
+    "contributors_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/contributors",
+    "subscribers_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/subscribers",
+    "subscription_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/subscription",
+    "commits_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/merges",
+    "archive_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/downloads",
+    "issues_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ankit-chaubey/github-profile-status/deployments",
     "created_at": "2026-02-04T07:11:19Z",
-    "updated_at": "2026-02-04T09:00:06Z",
-    "pushed_at": "2026-02-04T09:00:02Z",
-    "git_url": "git://github.com/ankit-chaubey/profilev2.git",
-    "ssh_url": "git@github.com:ankit-chaubey/profilev2.git",
-    "clone_url": "https://github.com/ankit-chaubey/profilev2.git",
-    "svn_url": "https://github.com/ankit-chaubey/profilev2",
-    "homepage": null,
-    "size": 911,
+    "updated_at": "2026-02-04T10:12:22Z",
+    "pushed_at": "2026-02-04T10:12:18Z",
+    "git_url": "git://github.com/ankit-chaubey/github-profile-status.git",
+    "ssh_url": "git@github.com:ankit-chaubey/github-profile-status.git",
+    "clone_url": "https://github.com/ankit-chaubey/github-profile-status.git",
+    "svn_url": "https://github.com/ankit-chaubey/github-profile-status",
+    "homepage": "https://ankit-chaubey.is-a.dev/profile/",
+    "size": 985,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "HTML",
@@ -89,7 +89,13 @@
     "archived": false,
     "disabled": false,
     "open_issues_count": 0,
-    "license": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
@@ -111,28 +117,28 @@
       "JavaScript": 8253
     },
     "latest_commit": {
-      "sha": "55b6ea15f6f636dfcd5758298050259bc3d853ab",
-      "date": "2026-02-04T09:00:01Z",
-      "message": "chore: update generated GitHub data [skip ci]",
-      "url": "https://github.com/ankit-chaubey/profilev2/commit/55b6ea15f6f636dfcd5758298050259bc3d853ab"
+      "sha": "6d640af93b68b4310f580b33d677b47775861975",
+      "date": "2026-02-04T10:12:10Z",
+      "message": "Docs & LICENSE",
+      "url": "https://github.com/ankit-chaubey/github-profile-status/commit/6d640af93b68b4310f580b33d677b47775861975"
     },
     "contributors_stats": [
       {
-        "total": 7,
+        "total": 8,
         "author": {
           "login": "github-actions[bot]",
           "url": "https://github.com/apps/github-actions"
         }
       },
       {
-        "total": 8,
+        "total": 9,
         "author": {
           "login": "ankit-chaubey",
           "url": "https://github.com/ankit-chaubey"
         }
       }
     ],
-    "commit_count_estimate": 15
+    "commit_count_estimate": 17
   },
   {
     "id": 466959617,
@@ -1618,16 +1624,8 @@
       "message": "chore: rename old directory to legacy",
       "url": "https://github.com/ankit-chaubey/eval-bot/commit/6ece6a4909998fccdacaba1799fb8b140216f256"
     },
-    "contributors_stats": [
-      {
-        "total": 3,
-        "author": {
-          "login": "ankit-chaubey",
-          "url": "https://github.com/ankit-chaubey"
-        }
-      }
-    ],
-    "commit_count_estimate": 3
+    "contributors_stats": null,
+    "commit_count_estimate": null
   },
   {
     "id": 953358527,
