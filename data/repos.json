@@ -67,8 +67,8 @@
     "releases_url": "https://api.github.com/repos/ankit-chaubey/profilev2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ankit-chaubey/profilev2/deployments",
     "created_at": "2026-02-04T07:11:19Z",
-    "updated_at": "2026-02-04T07:47:13Z",
-    "pushed_at": "2026-02-04T07:47:09Z",
+    "updated_at": "2026-02-04T07:55:26Z",
+    "pushed_at": "2026-02-04T07:55:22Z",
     "git_url": "git://github.com/ankit-chaubey/profilev2.git",
     "ssh_url": "git@github.com:ankit-chaubey/profilev2.git",
     "clone_url": "https://github.com/ankit-chaubey/profilev2.git",
@@ -107,32 +107,32 @@
       "pull": false
     },
     "languages": {
-      "HTML": 20245,
+      "HTML": 20484,
       "JavaScript": 8253
     },
     "latest_commit": {
-      "sha": "b1e91bcb80f923c003eee16d4aa0f2dc26d613df",
-      "date": "2026-02-04T07:47:05Z",
-      "message": "fix: move pinned.json into data directory",
-      "url": "https://github.com/ankit-chaubey/profilev2/commit/b1e91bcb80f923c003eee16d4aa0f2dc26d613df"
+      "sha": "227734313c9da8136d96cdba0bbdf94d73a287c3",
+      "date": "2026-02-04T07:55:16Z",
+      "message": "fix",
+      "url": "https://github.com/ankit-chaubey/profilev2/commit/227734313c9da8136d96cdba0bbdf94d73a287c3"
     },
     "contributors_stats": [
       {
-        "total": 2,
+        "total": 3,
         "author": {
           "login": "github-actions[bot]",
           "url": "https://github.com/apps/github-actions"
         }
       },
       {
-        "total": 5,
+        "total": 6,
         "author": {
           "login": "ankit-chaubey",
           "url": "https://github.com/ankit-chaubey"
         }
       }
     ],
-    "commit_count_estimate": 7
+    "commit_count_estimate": 9
   },
   {
     "id": 466959617,
@@ -256,8 +256,16 @@
       "message": ":)",
       "url": "https://github.com/ankit-chaubey/ankit-chaubey/commit/a4da5d985285425878a4b1e24b9102ee7daf7356"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 16,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 16
   },
   {
     "id": 1146318860,
@@ -528,8 +536,16 @@
       "message": "docs: polish README with badges and license refinement",
       "url": "https://github.com/ankit-chaubey/ciph/commit/54b72f0d9bffa1399164bf437504d75bb557baa5"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 2,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 2
   },
   {
     "id": 1145377040,
@@ -653,8 +669,16 @@
       "message": "feat: fuzzy engine rewrite + benchmarks\n\n* optimization for speed and large data handling\n\n* Update loader.go\n\n* Create fuzzy_test.go",
       "url": "https://github.com/ankit-chaubey/fuzzygo/commit/5c0c940d23b3648ff3f135713cee64cc14362a53"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 2,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 2
   },
   {
     "id": 1145007170,
@@ -1177,16 +1201,8 @@
       "message": ":)",
       "url": "https://github.com/ankit-chaubey/AboutMe/commit/89c37dbaad571b5159028d98b464a450de6fa762"
     },
-    "contributors_stats": [
-      {
-        "total": 6,
-        "author": {
-          "login": "ankit-chaubey",
-          "url": "https://github.com/ankit-chaubey"
-        }
-      }
-    ],
-    "commit_count_estimate": 6
+    "contributors_stats": null,
+    "commit_count_estimate": null
   },
   {
     "id": 888221462,
@@ -1309,8 +1325,16 @@
       "message": "docs: update website and README",
       "url": "https://github.com/ankit-chaubey/ankit-chaubey.github.io/commit/0c93b37f61fc650911dbb5c33ce5666738f6ea13"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 5,
+        "author": {
+          "login": "ankit-chaubey",
+          "url": "https://github.com/ankit-chaubey"
+        }
+      }
+    ],
+    "commit_count_estimate": 5
   },
   {
     "id": 1142199010,
@@ -1878,8 +1902,709 @@
       "message": "fix(server): api key update checks (#25363)",
       "url": "https://github.com/ankit-chaubey/immich/commit/b123beae38b952c4b713f9e5a1df0528f7605ddf"
     },
-    "contributors_stats": null,
-    "commit_count_estimate": null
+    "contributors_stats": [
+      {
+        "total": 8,
+        "author": {
+          "login": "PracticalRyan",
+          "url": "https://github.com/PracticalRyan"
+        }
+      },
+      {
+        "total": 8,
+        "author": {
+          "login": "opl-",
+          "url": "https://github.com/opl-"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "Jajajavi2203",
+          "url": "https://github.com/Jajajavi2203"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "timonrieger",
+          "url": "https://github.com/timonrieger"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "lukasdotcom",
+          "url": "https://github.com/lukasdotcom"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "Spielwurfel",
+          "url": "https://github.com/Spielwurfel"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "ja49619",
+          "url": "https://github.com/ja49619"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "icecore2",
+          "url": "https://github.com/icecore2"
+        }
+      },
+      {
+        "total": 9,
+        "author": {
+          "login": "IMBeniamin",
+          "url": "https://github.com/IMBeniamin"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "roschaefer",
+          "url": "https://github.com/roschaefer"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "gablilli",
+          "url": "https://github.com/gablilli"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "ekdahl",
+          "url": "https://github.com/ekdahl"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "Ethan13310",
+          "url": "https://github.com/Ethan13310"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "AbtinPHP",
+          "url": "https://github.com/AbtinPHP"
+        }
+      },
+      {
+        "total": 10,
+        "author": {
+          "login": "eerojaaskelainen",
+          "url": "https://github.com/eerojaaskelainen"
+        }
+      },
+      {
+        "total": 11,
+        "author": {
+          "login": "Lauritz-Tieste",
+          "url": "https://github.com/Lauritz-Tieste"
+        }
+      },
+      {
+        "total": 11,
+        "author": {
+          "login": "JobiJoba",
+          "url": "https://github.com/JobiJoba"
+        }
+      },
+      {
+        "total": 11,
+        "author": {
+          "login": "klahr",
+          "url": "https://github.com/klahr"
+        }
+      },
+      {
+        "total": 11,
+        "author": {
+          "login": "dagstuan",
+          "url": "https://github.com/dagstuan"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "millallo",
+          "url": "https://github.com/millallo"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "josern",
+          "url": "https://github.com/josern"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "immich-tofu[bot]",
+          "url": "https://github.com/apps/immich-tofu"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "arnolicious",
+          "url": "https://github.com/arnolicious"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "ddshd",
+          "url": "https://github.com/ddshd"
+        }
+      },
+      {
+        "total": 12,
+        "author": {
+          "login": "maksim2005UKR",
+          "url": "https://github.com/maksim2005UKR"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "Saschl",
+          "url": "https://github.com/Saschl"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "Simbatastic",
+          "url": "https://github.com/Simbatastic"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "PolarisGitYHNL",
+          "url": "https://github.com/PolarisGitYHNL"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "JW-CH",
+          "url": "https://github.com/JW-CH"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "thehijacker",
+          "url": "https://github.com/thehijacker"
+        }
+      },
+      {
+        "total": 13,
+        "author": {
+          "login": "xuars",
+          "url": "https://github.com/xuars"
+        }
+      },
+      {
+        "total": 14,
+        "author": {
+          "login": "Runskrift",
+          "url": "https://github.com/Runskrift"
+        }
+      },
+      {
+        "total": 14,
+        "author": {
+          "login": "grgergo1",
+          "url": "https://github.com/grgergo1"
+        }
+      },
+      {
+        "total": 15,
+        "author": {
+          "login": "C-Otto",
+          "url": "https://github.com/C-Otto"
+        }
+      },
+      {
+        "total": 15,
+        "author": {
+          "login": "Eee14",
+          "url": "https://github.com/Eee14"
+        }
+      },
+      {
+        "total": 16,
+        "author": {
+          "login": "daniele-athome",
+          "url": "https://github.com/daniele-athome"
+        }
+      },
+      {
+        "total": 16,
+        "author": {
+          "login": "chamdim",
+          "url": "https://github.com/chamdim"
+        }
+      },
+      {
+        "total": 16,
+        "author": {
+          "login": "faupau03",
+          "url": "https://github.com/faupau03"
+        }
+      },
+      {
+        "total": 16,
+        "author": {
+          "login": "pHamala",
+          "url": "https://github.com/pHamala"
+        }
+      },
+      {
+        "total": 17,
+        "author": {
+          "login": "adamantike",
+          "url": "https://github.com/adamantike"
+        }
+      },
+      {
+        "total": 17,
+        "author": {
+          "login": "droubi",
+          "url": "https://github.com/droubi"
+        }
+      },
+      {
+        "total": 18,
+        "author": {
+          "login": "pyorot",
+          "url": "https://github.com/pyorot"
+        }
+      },
+      {
+        "total": 18,
+        "author": {
+          "login": "dodog",
+          "url": "https://github.com/dodog"
+        }
+      },
+      {
+        "total": 19,
+        "author": {
+          "login": "lukashass",
+          "url": "https://github.com/lukashass"
+        }
+      },
+      {
+        "total": 20,
+        "author": {
+          "login": "chapvic",
+          "url": "https://github.com/chapvic"
+        }
+      },
+      {
+        "total": 20,
+        "author": {
+          "login": "panoti",
+          "url": "https://github.com/panoti"
+        }
+      },
+      {
+        "total": 21,
+        "author": {
+          "login": "meesfrensel",
+          "url": "https://github.com/meesfrensel"
+        }
+      },
+      {
+        "total": 22,
+        "author": {
+          "login": "jbaez",
+          "url": "https://github.com/jbaez"
+        }
+      },
+      {
+        "total": 22,
+        "author": {
+          "login": "JordyEGNL",
+          "url": "https://github.com/JordyEGNL"
+        }
+      },
+      {
+        "total": 23,
+        "author": {
+          "login": "MickLesk",
+          "url": "https://github.com/MickLesk"
+        }
+      },
+      {
+        "total": 23,
+        "author": {
+          "login": "samip5",
+          "url": "https://github.com/samip5"
+        }
+      },
+      {
+        "total": 24,
+        "author": {
+          "login": "idubnori",
+          "url": "https://github.com/idubnori"
+        }
+      },
+      {
+        "total": 25,
+        "author": {
+          "login": "Linerly",
+          "url": "https://github.com/Linerly"
+        }
+      },
+      {
+        "total": 25,
+        "author": {
+          "login": "xCJPECKOVERx",
+          "url": "https://github.com/xCJPECKOVERx"
+        }
+      },
+      {
+        "total": 25,
+        "author": {
+          "login": "Fjuro",
+          "url": "https://github.com/Fjuro"
+        }
+      },
+      {
+        "total": 26,
+        "author": {
+          "login": "IndrekHaav",
+          "url": "https://github.com/IndrekHaav"
+        }
+      },
+      {
+        "total": 26,
+        "author": {
+          "login": "flokuep",
+          "url": "https://github.com/flokuep"
+        }
+      },
+      {
+        "total": 28,
+        "author": {
+          "login": "DenisPac",
+          "url": "https://github.com/DenisPac"
+        }
+      },
+      {
+        "total": 30,
+        "author": {
+          "login": "Hurricane-32",
+          "url": "https://github.com/Hurricane-32"
+        }
+      },
+      {
+        "total": 30,
+        "author": {
+          "login": "dvbthien",
+          "url": "https://github.com/dvbthien"
+        }
+      },
+      {
+        "total": 30,
+        "author": {
+          "login": "leocb",
+          "url": "https://github.com/leocb"
+        }
+      },
+      {
+        "total": 30,
+        "author": {
+          "login": "DevServs",
+          "url": "https://github.com/DevServs"
+        }
+      },
+      {
+        "total": 31,
+        "author": {
+          "login": "GitSpoon",
+          "url": "https://github.com/GitSpoon"
+        }
+      },
+      {
+        "total": 32,
+        "author": {
+          "login": "brighteyed",
+          "url": "https://github.com/brighteyed"
+        }
+      },
+      {
+        "total": 34,
+        "author": {
+          "login": "NicholasFlamy",
+          "url": "https://github.com/NicholasFlamy"
+        }
+      },
+      {
+        "total": 36,
+        "author": {
+          "login": "medolino2009",
+          "url": "https://github.com/medolino2009"
+        }
+      },
+      {
+        "total": 36,
+        "author": {
+          "login": "skatsubo",
+          "url": "https://github.com/skatsubo"
+        }
+      },
+      {
+        "total": 36,
+        "author": {
+          "login": "pyccl",
+          "url": "https://github.com/pyccl"
+        }
+      },
+      {
+        "total": 37,
+        "author": {
+          "login": "papuass",
+          "url": "https://github.com/papuass"
+        }
+      },
+      {
+        "total": 37,
+        "author": {
+          "login": "aviv926",
+          "url": "https://github.com/aviv926"
+        }
+      },
+      {
+        "total": 39,
+        "author": {
+          "login": "made-in-Chuguev",
+          "url": "https://github.com/made-in-Chuguev"
+        }
+      },
+      {
+        "total": 41,
+        "author": {
+          "login": "bunubbv",
+          "url": "https://github.com/bunubbv"
+        }
+      },
+      {
+        "total": 42,
+        "author": {
+          "login": "uhthomas",
+          "url": "https://github.com/uhthomas"
+        }
+      },
+      {
+        "total": 43,
+        "author": {
+          "login": "Snowknight26",
+          "url": "https://github.com/Snowknight26"
+        }
+      },
+      {
+        "total": 51,
+        "author": {
+          "login": "indam",
+          "url": "https://github.com/indam"
+        }
+      },
+      {
+        "total": 52,
+        "author": {
+          "login": "ben-basten",
+          "url": "https://github.com/ben-basten"
+        }
+      },
+      {
+        "total": 60,
+        "author": {
+          "login": "matthinc",
+          "url": "https://github.com/matthinc"
+        }
+      },
+      {
+        "total": 65,
+        "author": {
+          "login": "wuzihao051119",
+          "url": "https://github.com/wuzihao051119"
+        }
+      },
+      {
+        "total": 66,
+        "author": {
+          "login": "benmccann",
+          "url": "https://github.com/benmccann"
+        }
+      },
+      {
+        "total": 77,
+        "author": {
+          "login": "fyfrey",
+          "url": "https://github.com/fyfrey"
+        }
+      },
+      {
+        "total": 81,
+        "author": {
+          "login": "YarosMallorca",
+          "url": "https://github.com/YarosMallorca"
+        }
+      },
+      {
+        "total": 84,
+        "author": {
+          "login": "weblate",
+          "url": "https://github.com/weblate"
+        }
+      },
+      {
+        "total": 94,
+        "author": {
+          "login": "martyfuhry",
+          "url": "https://github.com/martyfuhry"
+        }
+      },
+      {
+        "total": 95,
+        "author": {
+          "login": "dependabot[bot]",
+          "url": "https://github.com/apps/dependabot"
+        }
+      },
+      {
+        "total": 102,
+        "author": {
+          "login": "github-actions[bot]",
+          "url": "https://github.com/apps/github-actions"
+        }
+      },
+      {
+        "total": 104,
+        "author": {
+          "login": "waclaw66",
+          "url": "https://github.com/waclaw66"
+        }
+      },
+      {
+        "total": 110,
+        "author": {
+          "login": "bwees",
+          "url": "https://github.com/bwees"
+        }
+      },
+      {
+        "total": 117,
+        "author": {
+          "login": "mmomjian",
+          "url": "https://github.com/mmomjian"
+        }
+      },
+      {
+        "total": 127,
+        "author": {
+          "login": "etnoy",
+          "url": "https://github.com/etnoy"
+        }
+      },
+      {
+        "total": 127,
+        "author": {
+          "login": "midzelis",
+          "url": "https://github.com/midzelis"
+        }
+      },
+      {
+        "total": 175,
+        "author": {
+          "login": "martabal",
+          "url": "https://github.com/martabal"
+        }
+      },
+      {
+        "total": 253,
+        "author": {
+          "login": "zackpollard",
+          "url": "https://github.com/zackpollard"
+        }
+      },
+      {
+        "total": 270,
+        "author": {
+          "login": "bo0tzz",
+          "url": "https://github.com/bo0tzz"
+        }
+      },
+      {
+        "total": 349,
+        "author": {
+          "login": "michelheusschen",
+          "url": "https://github.com/michelheusschen"
+        }
+      },
+      {
+        "total": 365,
+        "author": {
+          "login": "shenlong-tanwen",
+          "url": "https://github.com/shenlong-tanwen"
+        }
+      },
+      {
+        "total": 399,
+        "author": {
+          "login": "danieldietzler",
+          "url": "https://github.com/danieldietzler"
+        }
+      },
+      {
+        "total": 473,
+        "author": {
+          "login": "mertalev",
+          "url": "https://github.com/mertalev"
+        }
+      },
+      {
+        "total": 952,
+        "author": {
+          "login": "renovate[bot]",
+          "url": "https://github.com/apps/renovate"
+        }
+      },
+      {
+        "total": 1456,
+        "author": {
+          "login": "jrasm91",
+          "url": "https://github.com/jrasm91"
+        }
+      },
+      {
+        "total": 2444,
+        "author": {
+          "login": "alextran1502",
+          "url": "https://github.com/alextran1502"
+        }
+      }
+    ],
+    "commit_count_estimate": 9986
   },
   {
     "id": 1137690869,
@@ -3203,16 +3928,8 @@
       "message": "fix(html): correct tg://user mention handling (release 0.1.3)",
       "url": "https://github.com/ankit-chaubey/delimiters/commit/d438208e73aab4f074e364c7d1b7601b233a7ee4"
     },
-    "contributors_stats": [
-      {
-        "total": 7,
-        "author": {
-          "login": "ankit-chaubey",
-          "url": "https://github.com/ankit-chaubey"
-        }
-      }
-    ],
-    "commit_count_estimate": 7
+    "contributors_stats": null,
+    "commit_count_estimate": null
   },
   {
     "id": 1127866332,
