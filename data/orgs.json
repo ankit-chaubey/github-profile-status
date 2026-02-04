@@ -1,0 +1,58 @@
+[
+  {
+    "login": "ynkit",
+    "id": 166285084,
+    "node_id": "O_kgDOCelPHA",
+    "url": "https://api.github.com/orgs/ynkit",
+    "repos_url": "https://api.github.com/orgs/ynkit/repos",
+    "events_url": "https://api.github.com/orgs/ynkit/events",
+    "hooks_url": "https://api.github.com/orgs/ynkit/hooks",
+    "issues_url": "https://api.github.com/orgs/ynkit/issues",
+    "members_url": "https://api.github.com/orgs/ynkit/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/ynkit/public_members{/member}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/166285084?v=4",
+    "description": ">> @ankit-chaubey"
+  },
+  {
+    "login": "ankitchaube",
+    "id": 166389885,
+    "node_id": "O_kgDOCerofQ",
+    "url": "https://api.github.com/orgs/ankitchaube",
+    "repos_url": "https://api.github.com/orgs/ankitchaube/repos",
+    "events_url": "https://api.github.com/orgs/ankitchaube/events",
+    "hooks_url": "https://api.github.com/orgs/ankitchaube/hooks",
+    "issues_url": "https://api.github.com/orgs/ankitchaube/issues",
+    "members_url": "https://api.github.com/orgs/ankitchaube/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/ankitchaube/public_members{/member}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/166389885?v=4",
+    "description": "The organizational space for @ankit-chaubey."
+  },
+  {
+    "login": "tgapis",
+    "id": 188177237,
+    "node_id": "O_kgDOCzdbVQ",
+    "url": "https://api.github.com/orgs/tgapis",
+    "repos_url": "https://api.github.com/orgs/tgapis/repos",
+    "events_url": "https://api.github.com/orgs/tgapis/events",
+    "hooks_url": "https://api.github.com/orgs/tgapis/hooks",
+    "issues_url": "https://api.github.com/orgs/tgapis/issues",
+    "members_url": "https://api.github.com/orgs/tgapis/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/tgapis/public_members{/member}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/188177237?v=4",
+    "description": "Some Telegram-related tools, APIs, and experiments."
+  },
+  {
+    "login": "CodePreserver",
+    "id": 193220521,
+    "node_id": "O_kgDOC4RPqQ",
+    "url": "https://api.github.com/orgs/CodePreserver",
+    "repos_url": "https://api.github.com/orgs/CodePreserver/repos",
+    "events_url": "https://api.github.com/orgs/CodePreserver/events",
+    "hooks_url": "https://api.github.com/orgs/CodePreserver/hooks",
+    "issues_url": "https://api.github.com/orgs/CodePreserver/issues",
+    "members_url": "https://api.github.com/orgs/CodePreserver/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/CodePreserver/public_members{/member}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/193220521?v=4",
+    "description": "A GitHub organization focused on preserving and managing essential repositories. Safeguard vital codebases for future use and ensure accessibility for all."
+  }
+]
